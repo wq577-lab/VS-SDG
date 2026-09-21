@@ -13,8 +13,7 @@
 
 ## 🔥 News
 
-- **[2026.xx]** 🎉 VS-SDG has been accepted by RAL.
-- **[2026.xx]** 🚀 The official implementation of VS-SDG is being organized and will be released in this repository.
+- **[2026.09]** 🎉 VS-SDG has been accepted by RAL.
 
 > Publication information will be updated once an official public version becomes available.
 
